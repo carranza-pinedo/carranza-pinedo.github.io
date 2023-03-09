@@ -17,7 +17,6 @@ You can find my CV here.
 
 ## Publications
 
-⋅⋅* Víctor Carranza-Pinedo (forthcoming). Slurs’ Variability, Emotional Dimensions, and Game-Theoretic Pragmatics. _Proceedings of the Logic and Engineering of Natural Language Semantics 19 Conference (LENLS19)_.
++ Víctor Carranza-Pinedo (forthcoming). Slurs’ Variability, Emotional Dimensions, and Game-Theoretic Pragmatics. _Proceedings of the Logic and Engineering of Natural Language Semantics 19 Conference (LENLS19)_.
 
 ## News
-
