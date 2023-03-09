@@ -11,6 +11,8 @@ Address: Philosophische Seminar, Domplatz 23, 48143 Münster
 
 I am a postdoctoral researcher at the University of Münster. 
 
+I completed my Ph.D. at the University of Milan and the Ecole Normale Superieure, under the supervision of Elisa Paganini and Marta Abrusan.
+
 You can find my CV here.
 
 ## Publications
