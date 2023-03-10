@@ -5,13 +5,13 @@ Víctor Carranza-Pinedo's personal website
 
 Email: firstname.lastname@uni-muenster.de
 
-Address: Philosophische Seminar, Domplatz 23, 48143 Münster
+Address: Philosophisches Seminar, Domplatz 23, 48143 Münster
 
 ## Biography
 
 I am a postdoctoral researcher at the University of Münster. 
 
-I completed my Ph.D. at the University of Milan and the Ecole Normale Superieure, under the supervision of Elisa Paganini and Marta Abrusan.
+I completed my Ph.D. at the University of Milan and the École Normale Supérieure, under the supervision of Elisa Paganini and Márta Abrusán.
 
 You can find my CV here.
 
