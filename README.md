@@ -13,7 +13,7 @@ I am a postdoctoral researcher at the University of Münster.
 
 I completed my Ph.D. at the University of Milan and the École Normale Supérieure, under the supervision of Elisa Paganini and Márta Abrusán.
 
-You can find my CV here.
+You can find my CV [here](https://www.dropbox.com/s/v1acaj4dhwtb6yh/cvitae_english.pdf?dl=0).
 
 ## Publications
 
