@@ -3,7 +3,7 @@ Víctor Carranza-Pinedo's personal website
 
 ## Contact
 
-Email: firstname.lastname@uni-muenster.de
+Email: victor.carranza[at]uni-muenster[dot]de
 
 Address: Philosophisches Seminar, Domplatz 23, 48143 Münster
 
