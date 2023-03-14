@@ -1,4 +1,4 @@
-Víctor Carranza-Pinedo's personal website
+Víctor Carranza-Pinedo
 ------
 
 ## Contact
