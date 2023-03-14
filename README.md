@@ -23,4 +23,4 @@ You can find my CV [here](https://www.dropbox.com/s/v1acaj4dhwtb6yh/cvitae_engli
 
 ## News
 
-+ I am presenting my work on the fitness effects of affective dominance at the [2nd Münster Evolution Meeting](https://www.uni-muenster.de/Evolution/MEM/main.shtml) and the [PAMBA Inaugural Meeting](https://www.the-pamba.com/events-1/inaugural-meeting-of-pamba).
++ I am presenting my work on the fitness effects of affective dominance at the [2nd Münster Evolution Meeting](https://www.uni-muenster.de/Evolution/MEM/main.shtml) (March 2023) and the [PAMBA Inaugural Meeting](https://www.the-pamba.com/events-1/inaugural-meeting-of-pamba) (April 2023).
