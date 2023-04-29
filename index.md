@@ -17,7 +17,7 @@ I completed my Ph.D. at the University of Milan and the École Normale Supérieu
 
 ## Output
 
-+ (forthcoming) Slurs’ Variability, Emotional Dimensions, and Game-Theoretic Pragmatics. _Proceedings of the Logic and Engineering of Natural Language Semantics 19 Conference (LENLS19)_. [[penultimate]](https://www.dropbox.com/s/ywq19u06hxowd7w/LENLS19%20%5Bpenultimate%5D.pdf?dl=0)
++ (forthcoming) Slurs’ Variability, Emotional Dimensions, and Game-Theoretic Pragmatics. _Proceedings of the Logic and Engineering of Natural Language Semantics 19 Conference (LENLS19)_. [[penultimate]](https://www.dropbox.com/s/d4nns6juy7yjoza/LENLS%2019%20%5Bpenultimate%5D.pdf?dl=0)
 + (under review) The Spectrum of Particularistic Insults. [[draft]](https://www.dropbox.com/s/gtmtejjhwboc94i/The%20Spectrum%20of%20Particularistic%20Insults%20%5Bdraft%5D.pdf?dl=0)
 + (under review) Slurs and Nicknames: A Unified Game-Theoretic Account.
 
