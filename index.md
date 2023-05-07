@@ -23,4 +23,4 @@ I completed my Ph.D. at the University of Milan and the École Normale Supérieu
 
 ## News
 
-+ I am presenting my work on the fitness effects of emotions at the [2nd Münster Evolution Meeting](https://www.uni-muenster.de/Evolution/MEM/main.shtml) (March 2023) and the [PAMBA Inaugural Meeting](https://www.the-pamba.com/events-1/inaugural-meeting-of-pamba) (April 2023). [[poster]](https://www.dropbox.com/s/0i5tvuzffwkblxq/Beyond%20Valence%20%5Bposter%5D.pdf?dl=0)
++ I am presenting my work on dimensional models of animal emotions at the [2nd Münster Evolution Meeting](https://www.uni-muenster.de/Evolution/MEM/main.shtml) (March 2023), the [PAMBA Inaugural Meeting](https://www.the-pamba.com/events-1/inaugural-meeting-of-pamba) (April 2023), and the [NC3 Seminar](https://www.uni-bielefeld.de/fakultaeten/biologie/forschung/verbuende/sfb_nc3/events/seminars/) (May 2023) [[poster]](https://www.dropbox.com/s/0i5tvuzffwkblxq/Beyond%20Valence%20%5Bposter%5D.pdf?dl=0) [[slides]](https://www.dropbox.com/s/2oc5z04ntnidy5o/Beyond%20Valence%20%5Bslides%5D.pdf?dl=0)
