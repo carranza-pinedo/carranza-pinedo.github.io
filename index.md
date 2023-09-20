@@ -20,7 +20,7 @@ I completed my Ph.D. at the University of Milan and the École Normale Supérieu
 + (forthcoming) Slurs’ Variability, Emotional Dimensions, and Game-Theoretic Pragmatics. _Proceedings of the Logic and Engineering of Natural Language Semantics 19 Conference (LENLS19)_. [[penultimate]](https://www.dropbox.com/s/d4nns6juy7yjoza/LENLS%2019%20%5Bpenultimate%5D.pdf?dl=0)
 + (under review) The Spectrum of Particularistic Insults. [[draft]](https://www.dropbox.com/s/gtmtejjhwboc94i/The%20Spectrum%20of%20Particularistic%20Insults%20%5Bdraft%5D.pdf?dl=0)
 + (under review) Rethinking Core Affect: The Role of Dominance in Animal Behaviour and Welfare Research. [[draft]](https://www.dropbox.com/scl/fi/dcdmnwfsrulthai3kzy6b/Rethinking-Core-Affect-draft.pdf?rlkey=h0k3nnkvyiatajaxuvoydhx2u&dl=0)
-+ (under review) Slurs and Nicknames: A Unified Game-Theoretic Account.
++ (under review) Slurring Individuals.
 
 ## News
 
