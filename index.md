@@ -20,7 +20,7 @@ I completed my Ph.D. at the University of Milan and the École Normale Supérieu
 + (2023) **Slurs’ Variability, Emotional Dimensions, and Game-Theoretic Pragmatics**. In: Bekki, D., Mineshima, K., McCready, E. (eds) _Logic and Engineering of Natural Language Semantics_. LENLS 2022. Lecture Notes in Computer Science, vol 14213. Springer, Cham. https://doi.org/10.1007/978-3-031-43977-3_12. [[draft version]](https://www.dropbox.com/s/d4nns6juy7yjoza/LENLS%2019%20%5Bpenultimate%5D.pdf?dl=0)
 + (under review) **The Spectrum of Particularistic Insults**. [[draft]](https://www.dropbox.com/s/gtmtejjhwboc94i/The%20Spectrum%20of%20Particularistic%20Insults%20%5Bdraft%5D.pdf?dl=0)
 + (under review) **Rethinking Core Affect: The Role of Dominance in Animal Behaviour and Welfare Research**. [[draft]](https://www.dropbox.com/scl/fi/dcdmnwfsrulthai3kzy6b/Rethinking-Core-Affect-draft.pdf?rlkey=h0k3nnkvyiatajaxuvoydhx2u&dl=0)
-+ (under review) **Slurring Individuals*. [[draft]](https://www.dropbox.com/scl/fi/2ibqrqavj4u6i33zc4xx6/Slurring-Individuals-draft.pdf?rlkey=jjzvj9yu3o4o90v4bmk62jhev&dl=0)
++ (under review) **Slurring Individuals**. [[draft]](https://www.dropbox.com/scl/fi/2ibqrqavj4u6i33zc4xx6/Slurring-Individuals-draft.pdf?rlkey=jjzvj9yu3o4o90v4bmk62jhev&dl=0)
 
 ## News
 
