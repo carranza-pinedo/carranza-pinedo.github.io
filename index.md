@@ -11,7 +11,7 @@ Address: Philosophisches Seminar, Domplatz 23, 48143 Münster
 
 I am a postdoctoral researcher at the University of Münster, where I am member of the collaborative project "[The role of individual internal states in niche choice, niche construction, and behavioural niche conformance](https://www.uni-bielefeld.de/fakultaeten/biologie/forschung/verbuende/sfb_nc3/projects/d01ph2#comp_00005c3e9e38_00000000a7_0131).” together with Ulrich Krohs. 
 
-My research interests lie at the intersection of the philosophy of language, emotions and biology.
+My research interests lie at the intersection of the philosophy of language, emotions, and biology.
 
 I completed my Ph.D. at the University of Milan and the École Normale Supérieure in 2022, under the supervision of Elisa Paganini and Márta Abrusán. You can find my CV [here](https://www.dropbox.com/s/v1acaj4dhwtb6yh/cvitae_english.pdf?dl=0) and my dissertation [here](https://air.unimi.it/handle/2434/933926).
 
