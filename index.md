@@ -23,9 +23,9 @@ I completed my Ph.D. at the University of Milan and the École Normale Supérieu
 
 ## Under review
 
-+ **The Spectrum of Particularistic Insults**. [[draft]](https://www.dropbox.com/s/gtmtejjhwboc94i/The%20Spectrum%20of%20Particularistic%20Insults%20%5Bdraft%5D.pdf?dl=0)
-+ **Rethinking Core Affect: The Role of Dominance in Animal Behaviour and Welfare Research**. [[draft]](https://www.dropbox.com/scl/fi/dcdmnwfsrulthai3kzy6b/Rethinking-Core-Affect-draft.pdf?rlkey=h0k3nnkvyiatajaxuvoydhx2u&dl=0)
-+ **Slurring Individuals**. [[draft]](https://www.dropbox.com/scl/fi/2ibqrqavj4u6i33zc4xx6/Slurring-Individuals-draft.pdf?rlkey=jjzvj9yu3o4o90v4bmk62jhev&dl=0)
++ The Spectrum of Particularistic Insults. [[draft]](https://www.dropbox.com/s/gtmtejjhwboc94i/The%20Spectrum%20of%20Particularistic%20Insults%20%5Bdraft%5D.pdf?dl=0)
++ Rethinking Core Affect: The Role of Dominance in Animal Behaviour and Welfare Research. [[draft]](https://www.dropbox.com/scl/fi/dcdmnwfsrulthai3kzy6b/Rethinking-Core-Affect-draft.pdf?rlkey=h0k3nnkvyiatajaxuvoydhx2u&dl=0)
++ Slurring Individuals. [[draft]](https://www.dropbox.com/scl/fi/2ibqrqavj4u6i33zc4xx6/Slurring-Individuals-draft.pdf?rlkey=jjzvj9yu3o4o90v4bmk62jhev&dl=0)
 
 ## News
 
