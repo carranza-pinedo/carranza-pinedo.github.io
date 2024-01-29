@@ -29,9 +29,9 @@ I completed my Ph.D. at the University of Milan and the École Normale Supérieu
 + Rethinking Core Affect: The Role of Dominance in Animal Behaviour and Welfare Research. 
 + Slurring Individuals.
 
-(drafts available upon request)
+_(drafts available upon request)_
 
 ## News
 
 + I am teaching the seminars "The Philosophy of Affective Sciences" [[syllabus]](https://www.dropbox.com/scl/fi/8q9h1xm5pd20ixwdfg7p0/The-Philosophy-of-the-Affective-Sciences-syllabus.docx?rlkey=c5xkznfnigxg7uhxb7w9208ae&dl=0) and "Introduction to Semantics and Pragmatics" in the 2023-24 academic year at the University of Münster.
-+ I am presenting my work on pejorative nickanmes at the [STAL seminar](https://sites.google.com/view/stalnetwork/seminar?authuser=0) on May 7.
++ I am presenting my work on pejorative nicknames at the [STAL seminar](https://sites.google.com/view/stalnetwork/seminar?authuser=0) on May 7.
