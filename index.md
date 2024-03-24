@@ -7,9 +7,6 @@ Email: victor.carranza[at]uni-muenster[dot]de
 
 Address: Philosophisches Seminar, Domplatz 23, 48143 Münster
 
-<div class='ppl-widget-container'>One moment, publications loading ... (or view them <a href="https://philpapers.org/profile/116741?widget_failed=1">here</a>)</div>
-<script type="text/javascript" src="https://philpeople.org/widget/116741.js"></script>
-
 ## Bio
 
 I am a postdoctoral researcher at the University of Münster, where I am member of the collaborative project "[The role of individual internal states in niche choice, niche construction, and behavioural niche conformance](https://www.uni-bielefeld.de/fakultaeten/biologie/forschung/verbuende/sfb_nc3/projects/d01ph2#comp_00005c3e9e38_00000000a7_0131)" led by Ulrich Krohs. 
