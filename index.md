@@ -13,7 +13,7 @@ I am a postdoctoral researcher at the University of Münster, where I am member 
 
 My research interests lie at the intersection of the philosophy of language, emotions, and biology.
 
-I completed my Ph.D. at the University of Milan and the École Normale Supérieure in 2022, under the supervision of Elisa Paganini and Márta Abrusán. You can find my CV [here](https://www.dropbox.com/s/v1acaj4dhwtb6yh/cvitae_english.pdf?dl=0) and my dissertation [here](https://air.unimi.it/handle/2434/933926).
+I completed my Ph.D. at the University of Milan and the École Normale Supérieure in 2022, under the supervision of Elisa Paganini and Márta Abrusán. You can find my CV [here](https://www.dropbox.com/scl/fi/ie9mklay8twf73crmowjz/cvitae_english.pdf?rlkey=x472iuqrz8drp6kuebb1rojjz&dl=0) and my dissertation [here](https://air.unimi.it/handle/2434/933926).
 
 ## Output
 
