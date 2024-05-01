@@ -22,7 +22,7 @@ I completed my Ph.D. at the University of Milan and the École Normale Supérieu
 [Commentary][[final]](https://www.wellbeingintlstudiesrepository.org/animsent/vol8/iss33/31/)
 + (2023) **Slurs’ variability, emotional dimensions, and game-theoretic pragmatics**. In: Bekki, D., Mineshima, K., McCready, E. (eds) _Logic and Engineering of Natural Language Semantics_. [[penultimate]](https://www.dropbox.com/s/d4nns6juy7yjoza/LENLS%2019%20%5Bpenultimate%5D.pdf?dl=0)[[final]](https://link.springer.com/chapter/10.1007/978-3-031-43977-3_12)
 + (2022) **The landscape of affective meaning**. Ph.D. Dissertation. [[final]](https://www.dropbox.com/scl/fi/dqyg8hptzbzkuyxnpenot/The-landscape-of-affective-meaning-2022.pdf?rlkey=0s2kx7q8u5uxq8sbre1wynqis&dl=0) 
-+ (2021) **The pragmatics of all-Purpose pejoratives**. In: C. Penco, A. Negro (eds), _Proceedings of the 2021 Workshop on Context_. [[final]](https://www.finophd.eu/WOC2021/paper5.pdf)
++ (2021) **The pragmatics of all-purpose pejoratives**. In: C. Penco, A. Negro (eds), _Proceedings of the 2021 Workshop on Context_. [[final]](https://www.finophd.eu/WOC2021/paper5.pdf)
 
 ## Under review 
 
