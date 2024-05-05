@@ -28,8 +28,9 @@ I completed my Ph.D. at the University of Milan and the École Normale Supérieu
 ## Under review 
 
 + A paper on the variety of all-purpose derogatory words. 
-+ A paper on sentience's multidimensionality and cross-species welfare comparisons
-+ A paper on the concept of "animal emotion" in behavioural biology
++ A paper on sentience's multidimensionality and cross-species welfare comparisons.
++ A paper on the concept of "animal emotion" in behavioural biology.
++ A paper on the role of technological scaffolds during development.
 
 _(drafts available upon request)_
 
