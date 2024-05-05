@@ -17,6 +17,7 @@ I completed my Ph.D. at the University of Milan and the École Normale Supérieu
 
 ## Output
 
++ (forthcoming) **Slurring individuals**. _Inquiry_.
 + (2024) **Rethinking core affect: the role of dominance in animal behaviour and welfare research**. _Synthese_ 203(153). [[penultimate]](https://philpapers.org/rec/CARRCA-19)[[final]](https://link.springer.com/article/10.1007/s11229-024-04591-2)
 + (2023) **Appraising evidence for valence**. _Animal Sentience_ 33(31) 
 [Commentary][[final]](https://www.wellbeingintlstudiesrepository.org/animsent/vol8/iss33/31/)
@@ -27,9 +28,8 @@ I completed my Ph.D. at the University of Milan and the École Normale Supérieu
 ## Under review 
 
 + A paper on the variety of all-purpose derogatory words. 
-+ A paper on the use and interpretation of pejorative nicknames. (R&R!)
 + A paper on sentience's multidimensionality and cross-species welfare comparisons
-
++ A paper on the concept of "animal emotion" in behavioural biology
 
 _(drafts available upon request)_
 
