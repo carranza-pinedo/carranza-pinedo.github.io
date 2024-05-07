@@ -19,17 +19,15 @@ I completed my Ph.D. at the University of Milan and the École Normale Supérieu
 
 + (forthcoming) **Slurring individuals**. _Inquiry_. [[penultimate]](https://philpapers.org/rec/CARSIX)
 + (2024) **Rethinking core affect: the role of dominance in animal behaviour and welfare research**. _Synthese_ 203(153). [[final]](https://link.springer.com/article/10.1007/s11229-024-04591-2)
-+ (2023) **Appraising evidence for valence**. _Animal Sentience_ 33(31) 
-[Commentary][[final]](https://www.wellbeingintlstudiesrepository.org/animsent/vol8/iss33/31/)
-+ (2023) **Slurs’ variability, emotional dimensions, and game-theoretic pragmatics**. In: Bekki, D., Mineshima, K., McCready, E. (eds) _Logic and Engineering of Natural Language Semantics_. [[penultimate]](https://www.dropbox.com/s/d4nns6juy7yjoza/LENLS%2019%20%5Bpenultimate%5D.pdf?dl=0)[[final]](https://link.springer.com/chapter/10.1007/978-3-031-43977-3_12)
++ (2023) **Appraising evidence for valence**. _Animal Sentience_ 33(31). Commentary. [[final]](https://www.wellbeingintlstudiesrepository.org/animsent/vol8/iss33/31/)
++ (2023) **Slurs’ variability, emotional dimensions, and game-theoretic pragmatics**. _Logic and Engineering of Natural Language Semantics_. [[penultimate]](https://www.dropbox.com/s/d4nns6juy7yjoza/LENLS%2019%20%5Bpenultimate%5D.pdf?dl=0)[[final]](https://link.springer.com/chapter/10.1007/978-3-031-43977-3_12)
 + (2022) **The landscape of affective meaning**. Ph.D. Dissertation. [[final]](https://www.dropbox.com/scl/fi/dqyg8hptzbzkuyxnpenot/The-landscape-of-affective-meaning-2022.pdf?rlkey=0s2kx7q8u5uxq8sbre1wynqis&dl=0) 
-+ (2021) **The pragmatics of all-purpose pejoratives**. In: C. Penco, A. Negro (eds), _Proceedings of the 2021 Workshop on Context_. [[final]](https://www.finophd.eu/WOC2021/paper5.pdf)
++ (2021) **The pragmatics of all-purpose pejoratives**. _Proceedings of the 2021 Workshop on Context_. [[final]](https://www.finophd.eu/WOC2021/paper5.pdf)
 
 ## Under review 
 
 + A paper on the variety of all-purpose derogatory words. 
 + A paper on sentience's multidimensionality and cross-species welfare comparisons.
-+ A paper on the concept of "animal emotion" in behavioural biology.
 + A paper on the role of technological scaffolds during development.
 
 _(drafts available upon request)_
