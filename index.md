@@ -17,12 +17,12 @@ I completed my Ph.D. at the University of Milan and the École Normale Supérieu
 
 ## Output
 
-+ (2024) Slurring individuals. **Inquiry**. [[final]](https://www.tandfonline.com/doi/epdf/10.1080/0020174X.2024.2353616?needAccess=true)
-+ (2024) Rethinking core affect: the role of dominance in animal behaviour and welfare research. **Synthese** 203(153). [[final]](https://link.springer.com/article/10.1007/s11229-024-04591-2)
-+ (2023) Appraising evidence for valence. **Animal Sentience** 33(31). Commentary. [[final]](https://www.wellbeingintlstudiesrepository.org/animsent/vol8/iss33/31/)
-+ (2023) Slurs’ variability, emotional dimensions, and game-theoretic pragmatics. **Logic and Engineering of Natural Language Semantics**. [[penultimate]](https://www.dropbox.com/s/d4nns6juy7yjoza/LENLS%2019%20%5Bpenultimate%5D.pdf?dl=0)[[final]](https://link.springer.com/chapter/10.1007/978-3-031-43977-3_12)
-+ (2022) The landscape of affective meaning. **Ph.D. Dissertation**. [[final]](https://www.dropbox.com/scl/fi/dqyg8hptzbzkuyxnpenot/The-landscape-of-affective-meaning-2022.pdf?rlkey=0s2kx7q8u5uxq8sbre1wynqis&dl=0) 
-+ (2021) The pragmatics of all-purpose pejoratives. **Proceedings of the 2021 Workshop on Context**. [[final]](https://www.finophd.eu/WOC2021/paper5.pdf)
++ (2024) Slurring individuals. **_Inquiry_**. [[final]](https://www.tandfonline.com/doi/epdf/10.1080/0020174X.2024.2353616?needAccess=true)
++ (2024) Rethinking core affect: the role of dominance in animal behaviour and welfare research. **_Synthese_** 203(153). [[final]](https://link.springer.com/article/10.1007/s11229-024-04591-2)
++ (2023) Appraising evidence for valence. **_Animal Sentience_** 33(31). Commentary. [[final]](https://www.wellbeingintlstudiesrepository.org/animsent/vol8/iss33/31/)
++ (2023) Slurs’ variability, emotional dimensions, and game-theoretic pragmatics. **_Logic and Engineering of Natural Language Semantics_**. [[penultimate]](https://www.dropbox.com/s/d4nns6juy7yjoza/LENLS%2019%20%5Bpenultimate%5D.pdf?dl=0)[[final]](https://link.springer.com/chapter/10.1007/978-3-031-43977-3_12)
++ (2022) The landscape of affective meaning. **_Ph.D. Dissertation_**. [[final]](https://www.dropbox.com/scl/fi/dqyg8hptzbzkuyxnpenot/The-landscape-of-affective-meaning-2022.pdf?rlkey=0s2kx7q8u5uxq8sbre1wynqis&dl=0) 
++ (2021) The pragmatics of all-purpose pejoratives. **_Proceedings of the 2021 Workshop on Context_**. [[final]](https://www.finophd.eu/WOC2021/paper5.pdf)
 
 ## Under review 
 
