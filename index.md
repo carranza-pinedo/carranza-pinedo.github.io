@@ -19,7 +19,7 @@ My research explores topics related to animal minds, focusing on topics like:
 + the compatibility of sentience's multidimensional structure with inter-species welfare comparisons.
 + the relationship between niche construction processes and animal goal-directed decision-making.
 
-Additionally, I work on foundational issues about emotions, such as the problem of recalcitrant emotions, and on emotion's expression, e.g., through derogatory language.
+Additionally, I work on foundational issues about emotions, such as the problem of recalcitrant emotions, and on the expression of emotions, e.g., through derogatory language.
 
 ## Output
 
