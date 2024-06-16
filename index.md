@@ -15,7 +15,7 @@ I completed my Ph.D. at the University of Milan and the École Normale Supérieu
 
 My research explores topics related to animal minds, focusing on topics like:
 
-+ the role of animals' sensation of control in animal behavior research and welfare.
++ the study of animal affect and wellbeing through cognitive bias tests
 + the compatibility of sentience's multidimensional structure with inter-species welfare comparisons.
 + the relationship between niche construction processes and animal goal-directed decision-making.
 
