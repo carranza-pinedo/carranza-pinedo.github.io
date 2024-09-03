@@ -39,12 +39,12 @@ Additionally, I work on foundational issues about emotions, such as the problem 
 
 + A paper on the variety of all-purpose derogatory words. 
 + A paper on sentience's multidimensionality and cross-species welfare comparisons.
-+ A paper on the role of technological scaffolds during development.
++ A paper on the role of technological scaffolds during development. (R&R!)
 
 _(drafts available upon request)_
 
 ## News
 
-+ I will present my work on animal decision-making and niche costruction on Münster's Summer School on Evolution on September (more info to come).
-+ I am teaching the seminars "The Philosophy of Affective Sciences" [[syllabus]](https://www.dropbox.com/scl/fi/8q9h1xm5pd20ixwdfg7p0/The-Philosophy-of-the-Affective-Sciences-syllabus.docx?rlkey=c5xkznfnigxg7uhxb7w9208ae&dl=0) and "Introduction to Semantics and Pragmatics" in the 2023-24 academic year at the University of Münster.
++ In September, I will present my work on animal decision-making and niche costruction on the [NC3 Conference](https://www.uni-bielefeld.de/fakultaeten/biologie/forschung/verbuende/sfb_nc3/events/conference/) in Münster and my work on mechanisms of animal emotions in the MGSE Summer School at Rehburg-Loccum.
++ In the 2024-25 Winter Semester I will teach a seminar titled "Trends in Philosophy of Mind: Understanding Human and Nonhuman Consciousness."
 + I presented my work on pejorative nicknames at the [STAL seminar](https://sites.google.com/view/stalnetwork/seminar?authuser=0) on May 21. [[slides]](https://www.dropbox.com/scl/fi/aedpnp4uubir2ch6sdu3a/nicknames.pdf?rlkey=3aep6gxqsg7r9q3y2olw99n1g&st=hjxptq5p&dl=0)
