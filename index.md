@@ -46,5 +46,5 @@ _(drafts available upon request)_
 ## News
 
 + In September, I presented my work on animal decision-making and niche costruction at the [NC3 Conference](https://www.uni-bielefeld.de/fakultaeten/biologie/forschung/verbuende/sfb_nc3/events/conference/) in Münster and my work on mechanisms of animal emotions at the MGSE Summer School at Rehburg-Loccum.
-+ In the 2024-25 Winter Semester I will teach a seminar titled "Trends in Philosophy of Mind: Understanding Human and Nonhuman Consciousness."
++ In the 2024-25 Winter Semester at the University of Münster I will teach an MA seminar titled "Trends in Philosophy of Mind: Understanding Human and Nonhuman Consciousness."
 + I presented my work on pejorative nicknames at the [STAL seminar](https://sites.google.com/view/stalnetwork/seminar?authuser=0) on May 21. [[slides]](https://www.dropbox.com/scl/fi/aedpnp4uubir2ch6sdu3a/nicknames.pdf?rlkey=3aep6gxqsg7r9q3y2olw99n1g&st=hjxptq5p&dl=0)
