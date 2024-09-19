@@ -13,7 +13,7 @@ I am a postdoctoral researcher at the University of Münster, where I am member 
 
 I completed my Ph.D. at the University of Milan and the École Normale Supérieure in 2022, under the supervision of Elisa Paganini and Márta Abrusán. You can find my CV [here](https://www.dropbox.com/scl/fi/i45k8c7nf3kfj7rzfcmvk/cvitae_english.pdf?rlkey=m2zdp0d0fvittkok5fq5g879r&st=gbjcbkap&dl=0) and my dissertation [here](https://air.unimi.it/handle/2434/933926).
 
-My research explores topics related to animal minds, focusing on topics like:
+My current research explores topics related to animal minds, focusing on topics like:
 
 + the study of animal affect and wellbeing through cognitive bias tests.
 + the compatibility of sentience's multidimensional structure with inter-species welfare comparisons.
