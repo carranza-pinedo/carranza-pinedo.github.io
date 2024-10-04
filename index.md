@@ -35,14 +35,6 @@ Additionally, I work on foundational issues about emotions, such as the problem 
 
 (2021) The pragmatics of all-purpose pejoratives. **_Proceedings of the 2021 Workshop on Context_**. [[final]](https://www.finophd.eu/WOC2021/paper5.pdf)
 
-## Under review 
-
-+ A paper on the variety of all-purpose derogatory words. 
-+ A paper on sentience's multidimensionality and cross-species welfare comparisons.
-+ A paper on the role of technological scaffolds during development. (R&R!)
-
-_(drafts available upon request)_
-
 ## News
 
 + In September, I presented my work on animal decision-making and niche costruction at the [NC3 Conference](https://www.uni-bielefeld.de/fakultaeten/biologie/forschung/verbuende/sfb_nc3/events/conference/) in Münster and my work on mechanisms of animal emotions at the MGSE Summer School at Rehburg-Loccum.
