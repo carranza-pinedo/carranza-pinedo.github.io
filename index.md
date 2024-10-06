@@ -11,7 +11,7 @@ Address: Philosophisches Seminar, Domplatz 23, 48143 Münster
 
 I am a postdoctoral researcher at the University of Münster, where I am member of the collaborative project "[The role of individual internal states in niche choice, niche construction, and behavioural niche conformance](https://www.uni-bielefeld.de/fakultaeten/biologie/forschung/verbuende/sfb_nc3/projects/d01ph2#comp_00005c3e9e38_00000000a7_0131)" led by Ulrich Krohs. 
 
-I completed my Ph.D. at the University of Milan and the École Normale Supérieure in 2022, under the supervision of Elisa Paganini and Márta Abrusán. You can find my CV [here](https://www.dropbox.com/scl/fi/i45k8c7nf3kfj7rzfcmvk/cvitae_english.pdf?rlkey=m2zdp0d0fvittkok5fq5g879r&st=gbjcbkap&dl=0) and my dissertation [here](https://air.unimi.it/handle/2434/933926).
+I completed my Ph.D. at the University of Milan and the École Normale Supérieure in 2022, under the supervision of Elisa Paganini and Márta Abrusán. You can find my CV [here](https://www.dropbox.com/scl/fi/wo08r642r0t7jvon6xsvt/cvitae_english.pdf?rlkey=6oq0jppo6et3hpb02izywpbcb&st=j1pstw98&dl=0) and my dissertation [here](https://air.unimi.it/handle/2434/933926).
 
 My current research explores topics related to animal minds, focusing on topics like:
 
