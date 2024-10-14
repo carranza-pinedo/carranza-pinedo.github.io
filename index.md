@@ -23,6 +23,8 @@ Additionally, I work on foundational issues about emotions, such as the problem 
 
 ## Output
 
+(forthcoming) Individuality and scaffolding in early childhood: uncovering interactive effects. (w/ Laura Diprossimo) **_Topoi_**.
+
 (2024) Slurring individuals. **_Inquiry_**. [[final]](https://www.tandfonline.com/doi/full/10.1080/0020174X.2024.2353616)
 
 (2024) Rethinking core affect: the role of dominance in animal behaviour and welfare research. **_Synthese_** 203(153). [[final]](https://link.springer.com/article/10.1007/s11229-024-04591-2)
