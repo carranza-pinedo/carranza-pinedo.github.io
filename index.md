@@ -38,7 +38,6 @@ Additionally, I work on foundational issues about emotions, such as the problem 
 
 ## News
 
-+ A paper I co-authored on scaffolding in early childhood is under R&R.
 + In the 2024-25 Winter Semester at Uni Münster I will teach a M.A. seminar titled "Trends in Philosophy of Mind: Understanding Human and Nonhuman Consciousness."
 + In September, I presented my work on animal decision-making and niche costruction at the [NC3 Conference](https://www.uni-bielefeld.de/fakultaeten/biologie/forschung/verbuende/sfb_nc3/events/conference/) in Münster and my work on mechanisms of animal emotions at the MGSE Summer School at Rehburg-Loccum.
 + I presented my work on pejorative nicknames at the [STAL seminar](https://sites.google.com/view/stalnetwork/seminar?authuser=0) on May 21. [[slides]](https://www.dropbox.com/scl/fi/aedpnp4uubir2ch6sdu3a/nicknames.pdf?rlkey=3aep6gxqsg7r9q3y2olw99n1g&st=hjxptq5p&dl=0)
