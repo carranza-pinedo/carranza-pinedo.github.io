@@ -22,6 +22,7 @@ My current research explores topics related to animal minds, focusing on topics 
 Additionally, I work on foundational issues about emotions, such as the problem of recalcitrant emotions, and on the expression of emotions, e.g., through derogatory language.
 
 ## Output
+(forthcoming) Scaffolding and Individuality in Early Childhood Development. (w. Laura Diprossimo). **_Topoi_**.
 
 (2024) Slurring individuals. **_Inquiry_**. [[final]](https://www.tandfonline.com/doi/full/10.1080/0020174X.2024.2353616)
 
