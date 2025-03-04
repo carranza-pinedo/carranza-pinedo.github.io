@@ -22,6 +22,7 @@ My current research explores topics related to animal minds, focusing on topics 
 Additionally, I work on foundational issues about emotions, such as the problem of recalcitrant emotions, and on the expression of emotions, e.g., through derogatory language.
 
 ## Output
+
 (2025) Scaffolding and individuality in early childhood development. (w. Laura Diprossimo) **_Topoi_**. [[final]](https://link.springer.com/article/10.1007/s11245-024-10155-3)
 
 (2024) Slurring individuals. **_Inquiry_**. [[final]](https://www.tandfonline.com/doi/full/10.1080/0020174X.2024.2353616)
@@ -36,8 +37,7 @@ Additionally, I work on foundational issues about emotions, such as the problem 
 
 (2021) The pragmatics of all-purpose pejoratives. **_Proceedings of the 2021 Workshop on Context_**. [[final]](https://www.finophd.eu/WOC2021/paper5.pdf)
 
-## News
+## Drafts
 
-+ In the 2024-25 Winter Semester at Uni Münster I will teach a M.A. seminar titled "Trends in Philosophy of Mind: Understanding Human and Nonhuman Consciousness."
-+ In September, I presented my work on animal decision-making and niche costruction at the [NC3 Conference](https://www.uni-bielefeld.de/fakultaeten/biologie/forschung/verbuende/sfb_nc3/events/conference/) in Münster and my work on mechanisms of animal emotions at the MGSE Summer School at Rehburg-Loccum.
-+ I presented my work on pejorative nicknames at the [STAL seminar](https://sites.google.com/view/stalnetwork/seminar?authuser=0) on May 21. [[slides]](https://www.dropbox.com/scl/fi/aedpnp4uubir2ch6sdu3a/nicknames.pdf?rlkey=3aep6gxqsg7r9q3y2olw99n1g&st=hjxptq5p&dl=0)
+Towards a Scientific Definition of Animal Emotions: Integrating Innate, Appraisal, and Network Mechanisms (R&R!)
+
