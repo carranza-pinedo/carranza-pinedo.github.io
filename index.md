@@ -36,8 +36,3 @@ Additionally, I work on foundational issues about emotions, such as the problem 
 (2022) The landscape of affective meaning. **_Ph.D. Dissertation_**. [[final]](https://www.dropbox.com/scl/fi/dqyg8hptzbzkuyxnpenot/The-landscape-of-affective-meaning-2022.pdf?rlkey=0s2kx7q8u5uxq8sbre1wynqis&dl=0) 
 
 (2021) The pragmatics of all-purpose pejoratives. **_Proceedings of the 2021 Workshop on Context_**. [[final]](https://www.finophd.eu/WOC2021/paper5.pdf)
-
-## Drafts
-
-Towards a Scientific Definition of Animal Emotions: Integrating Innate, Appraisal, and Network Mechanisms (R&R!)
-
