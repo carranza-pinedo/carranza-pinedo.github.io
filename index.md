@@ -22,7 +22,7 @@ My current research explores topics related to animal minds, focusing on topics 
 Additionally, I work on foundational issues about emotions, such as the problem of recalcitrant emotions, and on the expression of emotions, e.g., through derogatory language.
 
 ## Output
-(forthcoming) Towards a Scientific Definition of Animal Emotions: Integrating Innate, Appraisal, and Network Mechanisms. (w. Ulrich Krohs & Helene Richter) **_Neuroscience and Biobehavioral Reviews_**.
+(forthcoming) Towards a scientific definition of animal emotions: Integrating innate, appraisal, and network mechanisms. (w. Ulrich Krohs & Helene Richter) **_Neuroscience and Biobehavioral Reviews_**.
 
 (2025) Scaffolding and individuality in early childhood development. (w. Laura Diprossimo) **_Topoi_**. [[final]](https://link.springer.com/article/10.1007/s11245-024-10155-3)
 
