@@ -13,13 +13,7 @@ I am a postdoctoral researcher at the University of Münster, where I am member 
 
 I completed my Ph.D. at the University of Milan and the École Normale Supérieure in 2022, under the supervision of Elisa Paganini and Márta Abrusán. You can find my CV [here](https://www.dropbox.com/scl/fi/ecnmc7kk38a8p3jir2haz/cvitae_english.pdf?rlkey=3lmsvvc5ltghxqhpfidauoueh&st=vq256azu&dl=0) and my dissertation [here](https://theses.hal.science/tel-04585871).
 
-My current research explores topics related to animal minds, focusing on topics like:
-
-+ the study of animal affect and wellbeing through cognitive bias tests.
-+ the compatibility of sentience's multidimensional structure with inter-species welfare comparisons.
-+ the relationship between niche construction processes and animal goal-directed decision-making.
-
-Additionally, I work on foundational issues about emotions, such as the problem of recalcitrant emotions, and on the expression of emotions, e.g., through derogatory language.
+My current research explores topics related to the empirical study of animal minds and the expressive aspects of communication.
 
 ## Output
 (forthcoming) Towards a scientific definition of animal emotions: integrating innate, appraisal, and network mechanisms. (w. Ulrich Krohs & Helene Richter) **_Neuroscience and Biobehavioral Reviews_**.
