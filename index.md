@@ -16,7 +16,7 @@ I completed my Ph.D. at the University of Milan and the École Normale Supérieu
 My current research explores topics related to the empirical study of non-human minds and to the expressive aspects of communication.
 
 ## Output
-(forthcoming) Towards a scientific definition of animal emotions: integrating innate, appraisal, and network mechanisms. (w. Ulrich Krohs & Helene Richter) **_Neuroscience and Biobehavioral Reviews_**. [[final]](https://www.sciencedirect.com/science/article/pii/S0149763425001277#sec0010)
+(forthcoming) Towards a scientific definition of animal emotions: integrating innate, appraisal, and network mechanisms. (w. Ulrich Krohs & Helene Richter) **_Neuroscience and Biobehavioral Reviews_** 172. [[final]](https://www.sciencedirect.com/science/article/pii/S0149763425001277#sec0010)
 
 (2025) Scaffolding and individuality in early childhood development. (w. Laura Diprossimo) **_Topoi_**. [[final]](https://link.springer.com/article/10.1007/s11245-024-10155-3)
 
