@@ -13,7 +13,7 @@ I am a postdoctoral researcher at the University of Münster, where I am member 
 
 I completed my Ph.D. at the University of Milan and the École Normale Supérieure in 2022. You can find my CV [here](https://www.dropbox.com/scl/fi/ecnmc7kk38a8p3jir2haz/cvitae_english.pdf?rlkey=3lmsvvc5ltghxqhpfidauoueh&st=vq256azu&dl=0).
 
-My current research explores topics related to the empirical study of non-human minds and the expressive aspects of communication.
+My current research explores topics related to the empirical study of non-human minds and to the expressive aspects of communication.
 
 ## Output
 (forthcoming) Towards a scientific definition of animal emotions: integrating innate, appraisal, and network mechanisms. (w. Ulrich Krohs & Helene Richter) **_Neuroscience and Biobehavioral Reviews_**.
