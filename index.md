@@ -34,4 +34,4 @@ My current research explores topics related to the empirical study of non-human 
 
 ## Under review
 
-A paper on particularistic pejoratives
+A paper on the pragmatics of particularistic pejoratives
