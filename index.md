@@ -16,6 +16,7 @@ I completed my Ph.D. at the University of Milan and the École Normale Supérieu
 My current research explores topics related to the empirical study of non-human minds and to the expressive aspects of communication.
 
 ## Output
+
 (2025) Towards a scientific definition of animal emotions: integrating innate, appraisal, and network mechanisms. (w. Ulrich Krohs & Helene Richter) **_Neuroscience and Biobehavioral Reviews_** 172. [[final]](https://www.sciencedirect.com/science/article/pii/S0149763425001277#sec0010)
 
 (2025) Scaffolding and individuality in early childhood development. (w. Laura Diprossimo) **_Topoi_** 44, 491–503. [[final]](https://link.springer.com/article/10.1007/s11245-024-10155-3)
@@ -34,4 +35,9 @@ My current research explores topics related to the empirical study of non-human 
 
 ## Under review
 
-A paper on the pragmatics of particularistic pejoratives
+(Minor revisions) What are Particularistic Pejoratives?
+
+## News
+
+In August, I will give a talk at the First Latino American Congress of Affective Sciences (Belo Horizonte, Brazil) titled "Rethinking Expressive Content: Meaning, Emotion, and Mirativity," and another talk at the Philosophy of Neutrality Conference (Neuchâtel, Switzerland) titled "Reevaluating Predicates of Personal Taste: The Case for Semantic Neutrality."
+
