@@ -4,7 +4,7 @@ title: Víctor Carranza-Pinedo
 ---
 
 <div style="text-align: center;">
-  <a href="/">Home</a> | 
+  <a href="https://carranza-pinedo.github.io">Home</a> | 
   <a href="https://carranza-pinedo.github.io/output">Output</a> | 
   <a href="https://carranza-pinedo.github.io/news">News</a> | 
   <a href="https://carranza-pinedo.github.io/cv">CV</a>
