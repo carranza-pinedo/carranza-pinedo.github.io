@@ -1,7 +1,5 @@
 ---
-layout: home
 title: Víctor Carranza-Pinedo
-author_profile: true
 ---
 
 <div style="text-align: center;">
