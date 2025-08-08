@@ -1,10 +1,2 @@
 title: Víctor Carranza-Pinedo
-remote_theme: mmistakes/minimal-mistakes
-plugins:
-  - jekyll-remote-theme
-
-header_pages:
-  - index.md
-  - cv.md
-  - output.md
-  - news.md
+theme: jekyll-theme-cayman
