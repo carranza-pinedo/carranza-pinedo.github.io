@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Biography
+title: Publications
 ---
 
 This is the bio section.
