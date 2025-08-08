@@ -24,7 +24,4 @@ Email: victor[dot]carranza[at]uni-muenster[dot]de
 
 Address: Philosophisches Seminar, Domplatz 23, 48143 Münster
 
-<div class='ppl-widget-container'>Un momento, publicaciones cargando... (o verlas <a href="https://philpapers.org/profile/116741?widget_failed=1">aquí</a>)</div>
-<script type="text/javascript" src="https://philpeople.org/widget/116741.js"></script>
-
 
