@@ -1,6 +1,6 @@
 Víctor Carranza-Pinedo
 
-[Home](index.md) | [Bio](bio.md) | [Publications](publications.md) | [News](news.md)
+[Home](index.md) | [Publications](publications.md) | [News](news.md)
 
 ------
 ## Contact
