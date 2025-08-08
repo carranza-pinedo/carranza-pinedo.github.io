@@ -5,9 +5,9 @@ title: Víctor Carranza-Pinedo
 
 <div style="text-align: center;">
   <a href="/">Home</a> | 
-  <a href="/output/">Output</a> | 
-  <a href="/news/">News</a> | 
-  <a href="/cv/">CV</a>
+  <a href="/output.md/">Output</a> | 
+  <a href="/news.md/">News</a> | 
+  <a href="/cv.md/">CV</a>
 </div>
 
 ---
