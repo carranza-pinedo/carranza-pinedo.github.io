@@ -4,10 +4,10 @@ title: CV
 ---
 
 <div style="text-align: center;">
-  <a href="index.md">Home</a> | 
-  <a href="output.md">Output</a> | 
-  <a href="news.md">News</a> | 
-  <a href="cv.md">CV</a>
+  <a href="https://carranza-pinedo.github.io">Home</a> | 
+  <a href="https://carranza-pinedo.github.io/output">Output</a> | 
+  <a href="https://carranza-pinedo.github.io/news">News</a> | 
+  <a href="https://carranza-pinedo.github.io/cv">CV</a>
 </div>
 
 
