@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Víctor Carranza-Pinedo
 ---
 
 <div style="text-align: center;">
