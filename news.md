@@ -2,7 +2,7 @@
 layout: default
 title: news
 ---
-[Home](index.md) | [Publications](publications.md) | [News](news.md)
+[Home](index.md) | [Output](output.md) | [News](news.md)
 
 August:
 
