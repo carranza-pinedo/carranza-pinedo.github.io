@@ -1,3 +1,5 @@
 name: Personal Website
 
 remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-remote-theme
