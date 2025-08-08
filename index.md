@@ -1,4 +1,7 @@
-# Víctor Carranza-Pinedo
+---
+layout: default
+title: Víctor Carranza-Pinedo
+---
 
 [Home](index.md) | [Output](output.md) | [News](news.md)
 
