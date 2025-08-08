@@ -2,7 +2,11 @@
 layout: default
 ---
 
-[Home](index.md) | [Output](output.md) | [News](news.md)
+<div style="text-align: center;">
+  <a href="index.md">Home</a> | 
+  <a href="output.md">Output</a> | 
+  <a href="news.md">News</a>
+</div>
 
 ---
 
