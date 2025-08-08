@@ -8,6 +8,6 @@ navigation:
   - title: "Biography"
     url: "/bio"
   - title: "Publications"
-    url: "/publications"
+    url: "https://carranza-pinedo.github.io/bio"
   - title: "News"
     url: "/news"
