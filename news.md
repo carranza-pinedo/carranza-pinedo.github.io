@@ -4,7 +4,7 @@ title: news
 ---
 [Home](index.md) | [Output](output.md) | [News](news.md)
 
-August:
+## August
 
 I will give a talk at the First Latino American Congress of Affective Sciences (Belo Horizonte, Brazil) titled "Rethinking Expressive Content: Meaning, Emotion, and Mirativity," 
 
