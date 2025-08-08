@@ -17,7 +17,7 @@ I am a postdoctoral researcher at the University of Münster, Department of Phil
 
 I completed my Ph.D. at the University of Milan and the École Normale Supérieure de Paris.
 
-My current research explores topics related to the empirical study of non-human minds and to the expressive aspects of communication.
+My current research explores topics related to the empirical study of non-human minds and to the expressive aspects of communication, with a recent focus on animal signaling behaviors.
 
 ## Contact
 
