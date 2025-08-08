@@ -4,6 +4,8 @@ title: Output
 ---
 [Home](index.md) | [Output](output.md) | [News](news.md)
 
+---
+
 ## Published
 
 (2025) Towards a scientific definition of animal emotions: integrating innate, appraisal, and network mechanisms. (w. Ulrich Krohs & Helene Richter) **_Neuroscience and Biobehavioral Reviews_** 172. [[final]](https://www.sciencedirect.com/science/article/pii/S0149763425001277#sec0010)
