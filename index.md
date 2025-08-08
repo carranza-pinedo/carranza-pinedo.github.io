@@ -24,4 +24,11 @@ Email: victor[dot]carranza[at]uni-muenster[dot]de
 
 Address: Philosophisches Seminar, Domplatz 23, 48143 Münster
 
+<p style="text-align: center;">
+  <a href="https://philpeople.org/profiles/victor-carranza-pinedo" target="_blank">PhilPeople</a> |
+  <a href="https://scholar.google.com/citations?user=thxJEMgAAAAJ&hl=es&oi=ao" target="_blank">Google Scholar</a> |
+  <a href="https://www.researchgate.net/profile/Victor-Carranza-Pinedo" target="_blank">ResearchGate</a> |
+  <a href="https://uni-m.academia.edu/VíctorCarranzaPinedo">Academia.edu</a>
+</p>
+
 
