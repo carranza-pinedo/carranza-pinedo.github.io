@@ -2,6 +2,7 @@
 layout: default
 title: Output
 ---
+[Home](index.md) | [Output](output.md) | [News](news.md)
 
 ## Published
 
