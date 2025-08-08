@@ -1,6 +1,6 @@
 ---
 layout: default
-title: news
+title: News
 ---
 [Home](index.md) | [Output](output.md) | [News](news.md)
 
