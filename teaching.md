@@ -6,7 +6,8 @@ title: Teaching
   <a href="https://carranza-pinedo.github.io">Home</a> | 
   <a href="https://carranza-pinedo.github.io/output">Output</a> | 
   <a href="https://carranza-pinedo.github.io/news">News</a> | 
-  <a href="https://carranza-pinedo.github.io/cv">CV</a>
+  <a href="https://carranza-pinedo.github.io/cv">CV</a> |
+  <a href="https://carranza-pinedo.github.io/teaching">Teaching</a>
 </div>
 
 ## University of Münster - M.A. Wissenschaftsphilosophie
