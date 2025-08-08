@@ -2,6 +2,7 @@
 layout: default
 title: CV
 ---
+
 <div style="text-align: center;">
   <a href="index.md">Home</a> | 
   <a href="output.md">Output</a> | 
