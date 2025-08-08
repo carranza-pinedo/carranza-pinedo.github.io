@@ -1,6 +1,3 @@
-Víctor Carranza-Pinedo
-------
-
 ## Contact
 
 Email: victor[dot]carranza[at]uni-muenster[dot]de
