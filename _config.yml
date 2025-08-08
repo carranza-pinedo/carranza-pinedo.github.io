@@ -1,5 +1,4 @@
-name: Personal Website
-
+title: Víctor Carranza-Pinedo
 remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-remote-theme
