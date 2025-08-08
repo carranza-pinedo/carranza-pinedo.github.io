@@ -1,3 +1,13 @@
 name: Personal Website
 
 theme: jekyll-theme-cayman
+
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "Biography"
+    url: "/bio"
+  - title: "Publications"
+    url: "/publications"
+  - title: "News"
+    url: "/news"
