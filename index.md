@@ -13,9 +13,9 @@ title: Víctor Carranza-Pinedo
 
 I am a postdoctoral researcher at the University of Münster, Department of Philosophy, where I am member of the collaborative project "[The role of individual internal states in niche choice, niche construction, and behavioural niche conformance](https://www.uni-bielefeld.de/fakultaeten/biologie/forschung/verbuende/sfb_nc3/projects/d01ph2#comp_00005c3e9e38_00000000a7_0131)" led by Ulrich Krohs. 
 
-I completed my Ph.D. at the University of Milan and the École Normale Supérieure de Paris.
+I completed my Ph.D. at the [University of Milan](https://dipafilo.unimi.it/en/department) and the [Institut Jean Nicod](http://www.institutnicod.org/?lang=en).
 
-My current research explores topics related to the empirical study of non-human minds and to the expressive aspects of communication, with a recent focus on animal signaling behaviors.
+My current research explores topics related to the empirical study of non-human minds and to the expressive aspects of communication, with a recent focus on ape's signaling behaviors.
 
 ## Contact
 
