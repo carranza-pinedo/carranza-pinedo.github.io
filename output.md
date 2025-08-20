@@ -10,7 +10,11 @@ title: Output
   <a href="https://carranza-pinedo.github.io/teaching">Teaching</a>
 </div>
 
-(Forthcoming) What are Particularistic Pejoratives? **_Mind & Language_**
+## Forthcoming
+
+What are Particularistic Pejoratives? **_Mind & Language_**
+
+## Published
 
 (2025) Towards a scientific definition of animal emotions: integrating innate, appraisal, and network mechanisms. (w. Ulrich Krohs & Helene Richter) **_Neuroscience and Biobehavioral Reviews_** 172. [[final]](https://www.sciencedirect.com/science/article/pii/S0149763425001277#sec0010)
 
