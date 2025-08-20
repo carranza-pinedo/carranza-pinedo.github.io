@@ -12,6 +12,8 @@ title: Output
 
 ## Published
 
+(Forthcoming) What are Particularistic Pejoratives? **_Mind & Language_**
+
 (2025) Towards a scientific definition of animal emotions: integrating innate, appraisal, and network mechanisms. (w. Ulrich Krohs & Helene Richter) **_Neuroscience and Biobehavioral Reviews_** 172. [[final]](https://www.sciencedirect.com/science/article/pii/S0149763425001277#sec0010)
 
 (2025) Scaffolding and individuality in early childhood development. (w. Laura Diprossimo) **_Topoi_** 44, 491–503. [[final]](https://link.springer.com/article/10.1007/s11245-024-10155-3)
@@ -28,6 +30,4 @@ title: Output
 
 (2021) The pragmatics of all-purpose pejoratives. **_Proceedings of the 2021 Workshop on Context_**. [[final]](https://www.finophd.eu/WOC2021/paper5.pdf)
 
-## Under review
 
-(Minor revisions) What are Particularistic Pejoratives?
