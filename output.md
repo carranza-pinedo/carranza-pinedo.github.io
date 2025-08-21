@@ -12,7 +12,7 @@ title: Output
 
 ## Forthcoming
 
-What are Particularistic Pejoratives? **_Mind & Language_**
+What are Particularistic Pejoratives? **_Mind & Language_** [[penultimate]](https://philpapers.org/archive/CARWAP-3.pdf)
 
 ## Published
 
