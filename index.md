@@ -10,7 +10,8 @@ title: Víctor Carranza-Pinedo
   <a href="https://carranza-pinedo.github.io/teaching">Teaching</a>
 </div>
 
-<div style="text-align: center; margin-top: 20px;">
+
+<div style="text-align: center; margin-top: 30px;">
   <img src="images/IMG_0579.jpeg" alt="Víctor Carranza-Pinedo" width="200" style="border-radius: 50%;"/>
 </div>
 
