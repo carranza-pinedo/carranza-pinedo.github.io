@@ -32,4 +32,8 @@ What are particularistic pejoratives? **_Mind & Language_** [[penultimate]](http
 
 (2021) The pragmatics of all-purpose pejoratives. **_Proceedings of the 2021 Workshop on Context_**. [[final]](https://www.finophd.eu/WOC2021/paper5.pdf)
 
+## In preparation
+
+A paper on "at-issueness" and the metaphysics of expressive content.
+
 
