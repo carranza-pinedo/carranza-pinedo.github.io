@@ -16,7 +16,7 @@ I am a postdoctoral researcher at the University of Münster, Department of Phil
 
 I completed my Ph.D. in philosophy at the Università degli Studi di Milano and the École Normale Supérieure (Institut Jean Nicod), where I was co-advised by [Elisa Paganini](https://www.unimi.it/en/ugov/person/elisa-paganini) and [Márta Abrusán](https://sites.google.com/site/martaabrusan/).
 
-I am currently working in developing a novel approach to the study of ape signaling behaviors, integrating methodologies from the philosophy of language, sociolinguistics, and behavioral biology. I am interested in the semantics & pragmatics of pejorative and evaluative expressions, the study of animal cognition and affect, and the evolution of language.
+I am currently working on developing a novel approach to the study of ape signaling behaviors, integrating methodologies from the philosophy of language, sociolinguistics, and behavioral biology. I am interested in the semantics & pragmatics of pejorative and evaluative expressions, the study of animal cognition and affect, and the evolution of language.
 
 I did my master in philosophy at the École des Hautes Études en Sciences Sociales, co-advised by François Recanati and Michael Murez.
 
