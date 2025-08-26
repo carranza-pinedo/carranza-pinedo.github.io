@@ -11,11 +11,11 @@ title: Víctor Carranza-Pinedo
 </div>
 ## Bio
 
-I am a postdoctoral researcher at the University of Münster, Department of Philosophy, where I am member of the collaborative project "[The role of individual internal states in niche choice, niche construction, and behavioural niche conformance](https://www.uni-bielefeld.de/fakultaeten/biologie/forschung/verbuende/sfb_nc3/projects/d01ph2#comp_00005c3e9e38_00000000a7_0131)" led by Ulrich Krohs. 
+I am a postdoctoral researcher at the University of Münster, Department of Philosophy, where I am member of the collaborative project "[The role of individual internal states in niche choice, niche construction, and behavioural niche conformance](https://www.uni-bielefeld.de/fakultaeten/biologie/forschung/verbuende/sfb_nc3/projects/d01ph2#comp_00005c3e9e38_00000000a7_0131)" led by [Ulrich Krohs](https://www.uni-muenster.de/PhilSem/mitglieder/krohs/krohs.html). 
 
-I completed my Ph.D. at the [University of Milan](https://dipafilo.unimi.it/en/department) and the [Institut Jean Nicod](http://www.institutnicod.org/?lang=en).
+I completed my Ph.D. at the Università and the École Normale Supérieure (Institut Jean Nicod), where I was co-advised by [Elisa Paganini](https://www.unimi.it/en/ugov/person/elisa-paganini) and [Márta Abrusán](https://sites.google.com/site/martaabrusan/)
 
-My current research explores topics related to the empirical study of non-human minds and to the expressive aspects of communication, with a recent focus on ape's signaling behaviors.
+I am currently interested in developing a novel approach to the study of ape signaling behaviors, integrating methodologies from the philosophy of language, behavioral biology, and sociolinguistics. My research interests include formal pragmatics, comparative cognition, and developmental psychology, and I like to combine these fields in thinking about the origins of the human capacity for language.
 
 ## Contact
 
