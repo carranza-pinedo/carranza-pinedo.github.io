@@ -10,11 +10,6 @@ title: Víctor Carranza-Pinedo
   <a href="https://carranza-pinedo.github.io/teaching">Teaching</a>
 </div>
 
-
-<div style="text-align: center; margin-top: 30px;">
-  <img src="images/IMG_0579.jpeg" alt="Víctor Carranza-Pinedo" width="200" style="border-radius: 50%;"/>
-</div>
-
 ## Bio
 
 I am a postdoctoral researcher at the University of Münster, Department of Philosophy, where I am member of the collaborative project "[The role of individual internal states in niche choice, niche construction, and behavioural niche conformance](https://www.uni-bielefeld.de/fakultaeten/biologie/forschung/verbuende/sfb_nc3/projects/d01ph2#comp_00005c3e9e38_00000000a7_0131)" led by [Ulrich Krohs](https://www.uni-muenster.de/PhilSem/mitglieder/krohs/krohs.html). 
