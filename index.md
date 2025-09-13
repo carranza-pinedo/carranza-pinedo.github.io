@@ -14,11 +14,9 @@ title: Víctor Carranza-Pinedo
 
 I am a postdoctoral researcher at the University of Münster, Department of Philosophy, where I am member of the collaborative project "[The role of individual internal states in niche choice, niche construction, and behavioural niche conformance](https://www.uni-bielefeld.de/fakultaeten/biologie/forschung/verbuende/sfb_nc3/projects/d01ph2#comp_00005c3e9e38_00000000a7_0131)" led by [Ulrich Krohs](https://www.uni-muenster.de/PhilSem/mitglieder/krohs/krohs.html). 
 
-I completed my Ph.D. in philosophy at the Università degli Studi di Milano and the École Normale Supérieure (Institut Jean Nicod), where I was co-advised by [Elisa Paganini](https://www.unimi.it/en/ugov/person/elisa-paganini) and [Márta Abrusán](https://sites.google.com/site/martaabrusan/).
+My Ph.D. is from the Università degli Studi di Milano and the École Normale Supérieure (Institut Jean Nicod), where I was co-advised by [Elisa Paganini](https://www.unimi.it/en/ugov/person/elisa-paganini) and [Márta Abrusán](https://sites.google.com/site/martaabrusan/). Before that, I did my master in philosophy at the École des Hautes Études en Sciences Sociales, co-advised by François Recanati and Michael Murez.
 
-I am currently working on developing a novel approach to the study of ape signaling behaviors, integrating methodologies from the philosophy of language, sociolinguistics, and behavioral biology. I am interested in the semantics & pragmatics of pejorative and evaluative expressions, the study of animal cognition and affect, and the evolution of language.
-
-I did my master in philosophy at the École des Hautes Études en Sciences Sociales, co-advised by François Recanati and Michael Murez.
+I am currently working on developing a new approach to the study of ape signaling behaviors, integrating methodologies from the philosophy of language, sociolinguistics, and behavioral biology. I am also interested in the semantics & pragmatics of expressive and evaluative expressions, the study of animal cognition and affect, and the evolution of language.
 
 ## Contact
 
