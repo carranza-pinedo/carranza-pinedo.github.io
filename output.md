@@ -32,6 +32,8 @@ title: Output
 
 ## In preparation
 
-A paper on "at-issueness" and the metaphysics of expressive content.
+A paper on "at-issueness" and the metaphysics of expressive and propositional content.
+
+A paper on multidimensional accounts of animal consciousness and their implications for borderline cases.
 
 
