@@ -36,4 +36,10 @@ A paper on "at-issueness" and the metaphysics of expressive and propositional co
 
 A paper on multidimensional accounts of animal consciousness and their implications for borderline cases.
 
+A paper on slurs that denote fluid groups and social meaning.
+
+A paper on precautionary principles and animal sentience judgments.
+
+
+
 
