@@ -1,0 +1,12 @@
+{%- assign d1 = post.date | date: "%-d %b %Y" -%}
+{%- assign d2 = post.date_end | default: "" -%}
+{%- if d2 != "" -%}
+  {%- assign d2f = post.date_end | date: "%-d %b %Y" -%}
+  {%- assign date_str = d1 | append: "–" | append: d2f -%}
+{%- else -%}
+  {%- assign date_str = d1 -%}
+{%- endif -%}
+
+<p class="talkline" style="margin: 0 0 0.75rem 0;">
+  {{ post.title }} — {{ date_str }} — {{ post.venue }}{% if post.location and post.location != "" %}, {{ post.location }}{% endif %}
+</p>
