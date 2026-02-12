@@ -53,3 +53,17 @@
 .author__meta {
   margin-top: 0.3rem !important;
 }
+
+/* Sidebar: add clear space between name and the next line (location/meta) */
+.sidebar .author__name {
+  margin-bottom: 0.9rem !important;
+  padding-bottom: 0.15rem !important;
+}
+
+/* Covers different theme variants for the line under the name */
+.sidebar .author__name + p,
+.sidebar .author__name + .author__meta,
+.sidebar .author__name + .author__location,
+.sidebar .author__content p {
+  margin-top: 0.35rem !important;
+}
