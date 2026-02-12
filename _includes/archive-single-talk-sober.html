@@ -1,12 +1,30 @@
-{%- assign d1 = post.date | date: "%-d %b %Y" -%}
-{%- assign d2 = post.date_end | default: "" -%}
-{%- if d2 != "" -%}
-  {%- assign d2f = post.date_end | date: "%-d %b %Y" -%}
-  {%- assign date_str = d1 | append: "–" | append: d2f -%}
+{%- comment -%}
+Pretty date:
+- single day: 28 Aug 2025
+- same month/year range: 9–10 Feb 2026
+- different months/years: 28 Aug 2025 – 2 Sep 2025
+{%- endcomment -%}
+
+{%- assign d1_day = post.date | date: "%-d" -%}
+{%- assign d1_my  = post.date | date: "%b %Y" -%}
+{%- assign d1_full = post.date | date: "%-d %b %Y" -%}
+
+{%- if post.date_end and post.date_end != "" -%}
+  {%- assign d2_day = post.date_end | date: "%-d" -%}
+  {%- assign d2_my  = post.date_end | date: "%b %Y" -%}
+  {%- assign d2_full = post.date_end | date: "%-d %b %Y" -%}
+
+  {%- if d1_my == d2_my -%}
+    {%- assign date_str = d1_day | append: "–" | append: d2_day | append: " " | append: d1_my -%}
+  {%- else -%}
+    {%- assign date_str = d1_full | append: " – " | append: d2_full -%}
+  {%- endif -%}
 {%- else -%}
-  {%- assign date_str = d1 -%}
+  {%- assign date_str = d1_full -%}
 {%- endif -%}
 
-<p class="talkline" style="margin: 0 0 0.75rem 0;">
-  {{ post.title }} — {{ date_str }} — {{ post.venue }}{% if post.location and post.location != "" %}, {{ post.location }}{% endif %}
-</p>
+<div class="talk-entry" style="margin: 0 0 1.1rem 0;">
+  <div class="talk-title"><em>{{ post.title }}</em></div>
+  <div class="talk-meta">{{ date_str }}</div>
+  <div class="talk-venue">{{ post.venue }}{% if post.location and post.location != "" %}, {{ post.location }}{% endif %}</div>
+</div>
