@@ -13,11 +13,3 @@ My research centres on the semantics and pragmatics of subjective language, espe
 
 My Ph.D. is from the Università degli Studi di Milano and the École Normale Supérieure (Institut Jean Nicod), where I was co-advised by [Elisa Paganini](https://www.unimi.it/en/ugov/person/elisa-paganini) and [Márta Abrusán](https://sites.google.com/site/martaabrusan/). Before that, I did my master in philosophy at the École des Hautes Études en Sciences Sociales, co-advised by François Recanati and Michael Murez. You can find my CV [here](https://www.dropbox.com/scl/fi/1j1c3zyv8epc1pprvq1ma/cvitae_english.pdf?rlkey=4b85ngf0q3kvemlbfarvixrt2&st=16rj4gij&dl=0).
 
-Email: victor[dot]carranza[at]uni-muenster[dot]de
-
-<p style="text-align: center;">
-  <a href="https://philpeople.org/profiles/victor-carranza-pinedo" target="_blank">PhilPeople</a> |
-  <a href="https://scholar.google.com/citations?user=thxJEMgAAAAJ&hl=es&oi=ao" target="_blank">Google Scholar</a> |
-  <a href="https://www.researchgate.net/profile/Victor-Carranza-Pinedo" target="_blank">ResearchGate</a>
-</p>
-
