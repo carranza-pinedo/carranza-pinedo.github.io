@@ -5,9 +5,16 @@ Extract a short journal/venue name from `venue` by dropping anything after "(" o
 {%- endcomment -%}
 {% assign journal = post.venue | split: "(" | first | split: "," | first | strip %}
 
-{% capture coauth %}{% if post.coauthors and post.coauthors != "" %} (with {{ post.coauthors }}){% endif %}{% endcapture %}
+{%- capture coauth -%}{% if post.coauthors and post.coauthors != "" %} (with {{ post.coauthors }}){% endif %}{%- endcapture -%}
+
+{%- assign lastchar = post.title | slice: -1, 1 -%}
+{%- if lastchar == "?" or lastchar == "!" or lastchar == "." -%}
+  {%- assign endpunct = "" -%}
+{%- else -%}
+  {%- assign endpunct = "." -%}
+{%- endif -%}
 
 <p class="publine" style="margin: 0 0 0.75rem 0;">
-  ({{ year }}) {{ post.title }}{{ coauth | strip }}. <strong><em>{{ journal }}</em></strong>{% if post.paperurl and post.paperurl != "" %} — <a href="{{ post.paperurl }}">Link</a>{% endif %}
+  ({{ year }}) {{ post.title }}{{ coauth }}{{ endpunct }}
+  <strong><em>{{ journal }}</em></strong>{% if post.paperurl and post.paperurl != "" %} — <a href="{{ post.paperurl }}">Link</a>{% endif %}
 </p>
-
