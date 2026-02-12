@@ -2,20 +2,12 @@
 
 {%- comment -%}
 Extract a short journal/venue name from `venue` by dropping anything after "(" or ",".
-Examples:
-"Topoi (44), 491–503" -> "Topoi"
-"Neuroscience & Biobehavioral Reviews (vol. 172)" -> "Neuroscience & Biobehavioral Reviews"
 {%- endcomment -%}
 {% assign journal = post.venue | split: "(" | first | split: "," | first | strip %}
 
+{% capture coauth %}{% if post.coauthors and post.coauthors != "" %} (with {{ post.coauthors }}){% endif %}{% endcapture %}
+
 <p class="publine" style="margin: 0 0 0.75rem 0;">
-  ({{ year }})
-  {{ post.title }}
-  {% if post.coauthors and post.coauthors != "" %}
-    (with {{ post.coauthors }})
-  {% endif %}.
-  <strong><em>{{ journal }}</em></strong>
-  {% if post.paperurl and post.paperurl != "" %}
-    — <a href="{{ post.paperurl }}">Link</a>
-  {% endif %}
+  ({{ year }}) {{ post.title }}{{ coauth | strip }}. <strong><em>{{ journal }}</em></strong>{% if post.paperurl and post.paperurl != "" %} — <a href="{{ post.paperurl }}">Link</a>{% endif %}
 </p>
+
