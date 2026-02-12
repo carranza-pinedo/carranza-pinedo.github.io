@@ -23,7 +23,7 @@ repository               : "carranza-pinedo/carranza-pinedo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   name             : "Víctor Carranza-Pinedo"
   pronouns         : # example: "she/her"  
   bio              : "Social meaning and communication; expressive language; animal affect and sentience; welfare-relevant evidence and uncertainty."
