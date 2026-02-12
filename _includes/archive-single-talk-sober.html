@@ -23,8 +23,6 @@ Pretty date:
   {%- assign date_str = d1_full -%}
 {%- endif -%}
 
-<div class="talk-entry" style="margin: 0 0 1.1rem 0;">
-  <div class="talk-title"><em>{{ post.title }}</em></div>
-  <div class="talk-meta">{{ date_str }}</div>
-  <div class="talk-venue">{{ post.venue }}{% if post.location and post.location != "" %}, {{ post.location }}{% endif %}</div>
-</div>
+<p class="talkline" style="margin: 0 0 0.9rem 0;">
+  <em>{{ post.title }}</em> — {{ post.venue }}{% if post.location and post.location != "" %}, {{ post.location }}{% endif %} ({{ date_str }})
+</p>
