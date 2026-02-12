@@ -13,9 +13,9 @@ Examples:
   {{ post.title }}
   {% if post.coauthors and post.coauthors != "" %}
     (with {{ post.coauthors }})
-  {% endif %}
-  <strong>{{ journal }}</strong>
+  {% endif %}.
+  <strong><em>{{ journal }}</em></strong>
   {% if post.paperurl and post.paperurl != "" %}
-    <a href="{{ post.paperurl }}">Link</a>
+    — <a href="{{ post.paperurl }}">Link</a>
   {% endif %}
 </p>
