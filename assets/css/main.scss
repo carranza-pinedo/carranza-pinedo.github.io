@@ -41,3 +41,15 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* Add space between author name and location in the left sidebar */
+.author__name {
+  margin-bottom: 0.6rem !important;
+}
+
+/* Depending on theme version, location can use one of these classes */
+.author__location,
+.author__bio,
+.author__meta {
+  margin-top: 0.3rem !important;
+}
