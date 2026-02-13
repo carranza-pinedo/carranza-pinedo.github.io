@@ -67,3 +67,14 @@
 .sidebar .author__content p {
   margin-top: 0.35rem !important;
 }
+
+/* Hide the site title in the top-left masthead (prevents duplicate name) */
+.masthead__menu .site-title {
+  display: none !important;
+}
+
+/* Optional: remove the left padding that the site title used */
+.masthead__menu .visible-links {
+  margin-left: 0 !important;
+}
+
