@@ -1,4 +1,8 @@
-{% assign year = post.date | date: "%Y" %}
+{% if post.pub_year and post.pub_year != "" %}
+  {% assign year = post.pub_year %}
+{% else %}
+  {% assign year = post.date | date: "%Y" %}
+{% endif %}
 
 {%- comment -%}
 Extract a short journal/venue name from `venue` by dropping anything after "(" or ",".
