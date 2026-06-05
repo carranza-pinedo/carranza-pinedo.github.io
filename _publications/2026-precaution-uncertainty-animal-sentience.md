@@ -1,5 +1,5 @@
 ---
-title: "How Precaution Should Track Uncertainty in Animal Sentience Judgements"
+title: "How precaution should track uncertainty in animal sentience judgements"
 collection: publications
 category: manuscripts
 permalink: /publication/2026-precaution-uncertainty-animal-sentience
