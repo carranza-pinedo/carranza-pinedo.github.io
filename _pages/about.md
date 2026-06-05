@@ -15,7 +15,4 @@ I am Adjunct Lecturer at the Universidad Nacional Mayor de San Marcos (Peru). Pr
 
 My Ph.D. is from the Università degli Studi di Milano and the École Normale Supérieure (Institut Jean Nicod), where I was co-advised by [Elisa Paganini](https://www.unimi.it/en/ugov/person/elisa-paganini) and [Márta Abrusán](https://sites.google.com/site/martaabrusan/).
 
-<p style="font-weight: 600;">
-<span style="color: #b00020;">News:</span>
-My paper ‘How Precaution Should Track Uncertainty in Animal Sentience Judgements’ has been accepted for publication in <em>The Philosophical Quarterly</em>.
-</p>
+<p> <strong style="color: #b00020;">News:</strong> My paper ‘How Precaution Should Track Uncertainty in Animal Sentience Judgements’ has been accepted for publication in <em>The Philosophical Quarterly</em>. </p>
